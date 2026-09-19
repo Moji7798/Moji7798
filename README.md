@@ -48,5 +48,5 @@ I also enjoy working across the frontend/backend boundary—understanding how AP
 
 ## 🔗 Connect
 
-* [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mojtaba-mosalman/))
+* [LinkedIn](https://www.linkedin.com/in/mojtaba-mosalman/)
 * [Email](mailto:mojtaba.mosalman.7798@gmail.com)
